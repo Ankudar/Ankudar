@@ -13,3 +13,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ankudar&theme=merko&hide_border=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&locale=ru&short_numbers=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
