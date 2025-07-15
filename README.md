@@ -6,7 +6,8 @@
 </div>
 
 
-### 💻 Скромный опыт и скромные навыки...
+### Скромный опыт и скромные навыки...
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -22,6 +23,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankudar&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankudar&theme=2077)
 
+### И немного скромных проектов... :)
+
+| Проект                                   | Описание                                                               |
+|------------------------------------------|------------------------------------------------------------------------|
+| **[Предсказание увольнений](https://github.com/Ankudar/dismissal_predict_v2)** | Предсказание увольнений с автоматизацией в MLflow и Airflow.          |
+| **[Голос в текст](https://github.com/Ankudar/whisper_with_ident)**                  | Преобразует голос в текст, будь то видео или аудио файл.                                           |
+| **[Яндекс практикум](https://github.com/Ankudar/yandex_practicum_ds)**                  | Проекты с яндекс практикума.
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankudar" alt="ankudar" /></a> </p>
