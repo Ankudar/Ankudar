@@ -32,6 +32,10 @@
 | **[Яндекс практикум](https://github.com/Ankudar/yandex_practicum_ds)**                  | Проекты Data Science с курса яндекс практикума. |
 | **[Остальные проекты](https://github.com/Ankudar?tab=repositories)**                  | Остальные проекты |
 
+### И это пусть тут тоже полежит, а я пока порешаю задачки...
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ankudar?theme=dark&font=Mallanna&ext=activity)
+
+
 <!-- ASCII art -->
 ```
 #####################################################################
