@@ -30,7 +30,7 @@
 | **[Предсказание увольнений](https://github.com/Ankudar/dismissal_predict_v2)** | Предсказание увольнений с автоматизацией в MLflow и Airflow.          |
 | **[Голос в текст](https://github.com/Ankudar/whisper_with_ident)**                  | Преобразует голос в текст, будь то видео или аудио файл.                                           |
 | **[Яндекс практикум](https://github.com/Ankudar/yandex_practicum_ds)**                  | Проекты Data Science с курса яндекс практикума. |
-| **[Остальные проекты]([https://github.com/Ankudar/yandex_practicum_ds](https://github.com/Ankudar?tab=repositories))**                  | Остальные проекты |
+| **[Остальные проекты](https://github.com/Ankudar?tab=repositories)**                  | Остальные проекты |
 
 <!-- ASCII art -->
 ```
